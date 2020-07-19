@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.PrimitiveShapeCollectionEditor",          
+    "references": ["be.eloistree.PrimitiveShapeCollection"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   

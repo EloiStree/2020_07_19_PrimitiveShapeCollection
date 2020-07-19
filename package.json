@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.primitiveshapecollection",                              
+  "displayName": "Primitive Shape Collection",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "We really need to have access for prototyping a good liste of primitive shape accessible. So here is the package where I will drop some CC shape found on the web for the community.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://gitlab.com/EloiStree/2020_07_19_PrimitiveShapeCollection.git",
+"footprint":"",
+"revision":"437e753e9b937d7ea2a2bdffe2b3865746222e18"},     
+  "category": "Script"                   
+} 
